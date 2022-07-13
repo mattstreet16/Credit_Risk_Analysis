@@ -30,4 +30,4 @@ EasyEnsembleClassifer:
 
 
 ## Summary
-In summation, after analyzing the machine learning models it is clear that the better model to use for accurate credit risk predictions is the Easy Ensemble Ada boost classifier as it produced the most accurate response and is the closest to 1. 
+In summation, after analyzing the machine learning models it is clear that the better model to use for accurate credit risk predictions is the Easy Ensemble Ada boost classifier as it produced the most accurate response and the balanced accuracy score is the closest to 1. 
